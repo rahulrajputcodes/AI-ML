@@ -272,7 +272,7 @@
 # obj3  = truck()
 
 
-#dunder methods 
+#dunder methods (EXPLORE FROM GEEKSFORGEEKS)
 
 # class Animal:
 #     def __init__(self,name):
